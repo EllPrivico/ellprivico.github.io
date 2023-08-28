@@ -1,5 +1,8 @@
 ![Envy logo](envy.jpg)
 
+# TODO:
+Add tic-80
+
 ## Envy, the open OS
 Envy is a environment for locked down devices, such as Chromebooks or Windows devices.
 
